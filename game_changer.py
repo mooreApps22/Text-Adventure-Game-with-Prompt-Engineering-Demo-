@@ -12,7 +12,7 @@ class MyClass:
 
 
 """
-API_KEY="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"
+API_KEY="XXX"
 client = Anthropic(api_key=API_KEY)
 
 message = client.messages.create(
