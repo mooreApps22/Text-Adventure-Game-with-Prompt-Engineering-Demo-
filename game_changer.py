@@ -1,9 +1,6 @@
 #Written by team: Changing the Game @ the 42 London Hackathon
 #Skyy Moore
-#Michael Adeleye
-#Aayushi Upadhyay
-#Maddie Winchester
-#Ben Norman
+
 
 import os
 import keyboard
